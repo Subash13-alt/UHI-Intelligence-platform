@@ -1,0 +1,15 @@
+fastapi
+sqlalchemy
+psycopg2-binary
+geoalchemy2
+pydantic
+scikit-learn
+pandas
+numpy
+geopandas
+requests
+apscheduler
+python-jose
+passlib
+reportlab
+python-dotenv
